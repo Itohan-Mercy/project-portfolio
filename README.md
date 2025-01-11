@@ -7,4 +7,4 @@ In the course of building myself and improving my professional skillset in data 
 #### 4. Call Centre and Retention Dashboard (pwc virtual internship program)
 #### 5. Global Terrorism Dashboard (Data Science Intern)
 #### 6. YouTube Streamers Analysis (Data Science Intern)
-#### 7. Covid-19 Data Analysis (3MTT Data Science Fellow) - check more on this project @ 
+#### 7. Covid-19 Data Analysis (3MTT Data Science Fellow) - check more on this project @ https://github.com/Itohan-Mercy/3MTT-projects.git
